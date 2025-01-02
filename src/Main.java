@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("ffsd");
         System.out.println("jih");
+        System.out.println('dd');
     }
 }
